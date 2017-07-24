@@ -29,7 +29,7 @@ module.exports = {
       Clock: 'app/components/Clock.jsx',
       applicationStyles: 'app/styles/app.scss'
     },
-    extenstions: ['','.js','.jsx']
+    extentions: ['','.js','.jsx']
   },
   module: {
     loaders: [
